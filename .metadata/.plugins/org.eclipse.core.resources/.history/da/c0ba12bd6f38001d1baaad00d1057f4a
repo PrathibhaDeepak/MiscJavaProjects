@@ -1,0 +1,10 @@
+package constructorLearn;
+
+public class ThisSample {
+	int a, b;
+	
+	ThisSample(int a, int b){
+		
+	}
+
+}

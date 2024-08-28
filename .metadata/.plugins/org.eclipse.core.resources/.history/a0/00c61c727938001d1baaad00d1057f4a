@@ -1,0 +1,12 @@
+package constructorLearn;
+
+public class ThisSample {
+	int a = 100, b = 200;
+	
+	ThisSample(int a, int b){
+		this.a = a;
+		this.b = b;
+		System.out.println("a: " + a + "\nb: "+ b);
+	}
+
+}

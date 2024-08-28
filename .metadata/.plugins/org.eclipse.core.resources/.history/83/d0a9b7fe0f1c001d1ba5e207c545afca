@@ -1,0 +1,27 @@
+package arrayPack;
+
+public class ArrBrototype {
+
+	public static void main(String[] args) {
+		int num=10;
+	
+		int count = 0;
+	
+	for(int i=0; i<=10; i++) {
+		
+		if(num%i==2) {
+			count++;	
+			
+		}
+		if(count==2) {
+			System.out.printf("Prime Number: %d", count);
+	
+		}
+		else {
+			System.out.print("Not a Prime");
+		}
+	}
+
+	}
+
+}

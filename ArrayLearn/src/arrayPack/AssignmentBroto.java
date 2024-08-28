@@ -1,0 +1,41 @@
+package arrayPack;
+
+public class AssignmentBroto {
+
+	public static void main(String[] args) {
+		int num=5;
+		for(int i=1; i<=num;i++) {
+			for(int j=1; j<=i; j++) {
+				System.out.print(j);
+			}
+		System.out.print("\n");
+		}
+		System.out.print("\n2nd Assignment\n\n");
+		int limit = 10;
+		int sum=0;
+		for(int k=1; k<=limit; k++) {
+				
+			
+			if(k%2==1) {
+				sum = sum+k;
+				//System.out.printf("\nOdd: %d", k);
+				System.out.printf("\nOdd Sum: %d ", sum);
+			}
+			//else {
+				//System.out.printf("\nEven: %d", k);}
+			
+			
+		}
+		System.out.print("\n\n3rd Assignment - Multiplication Table");
+		int multiply = 5;
+		int product=0;
+		
+		for(int n=1; n<=10; n++) {
+			product = n*multiply;
+			System.out.printf("\n%d * %d = %d", n,multiply,product);
+		}
+		
+	
+	}
+
+}

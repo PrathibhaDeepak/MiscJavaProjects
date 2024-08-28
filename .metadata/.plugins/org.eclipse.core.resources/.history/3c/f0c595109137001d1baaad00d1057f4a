@@ -1,0 +1,17 @@
+package fucnOne;
+
+public class StatTwo {
+	int a;
+	static int b;
+
+	public static void main(String[] args) {
+		StatTwo On = new StatTwo();
+		
+		On.a = 10;
+		
+		System.out.println(On);
+		
+
+	}
+
+}

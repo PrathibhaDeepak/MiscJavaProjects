@@ -1,0 +1,6 @@
+package threadPack;
+
+public abstract class Thread {
+	abstract void run();
+
+}

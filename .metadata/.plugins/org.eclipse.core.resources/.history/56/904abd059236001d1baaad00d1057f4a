@@ -1,0 +1,28 @@
+package primeClass;
+
+public class AssignmentMethod {
+
+	public static void main(String[] args) {
+		int ans;
+		Methods Meth1 = new Methods();
+		Methods Meth2 = new Methods();
+		Methods Meth3 = new Methods();
+		Methods Meth4 = new Methods();
+		
+		Meth1.num1 = 100;
+		Meth1.num2 = 20;
+		
+		Meth2.num1 = 45;
+		Meth2.num2 = 5;
+		
+		ans = Meth1.Multiplication();
+		ans = Meth1.Division();
+		
+		System.out.println(ans);
+		
+		
+		
+
+	}
+
+}

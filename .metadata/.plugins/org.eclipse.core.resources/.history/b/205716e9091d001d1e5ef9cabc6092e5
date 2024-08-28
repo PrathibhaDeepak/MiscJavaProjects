@@ -1,0 +1,21 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class ArrPrac {
+
+	public static void main(String[] args) {
+			int arr[];
+			System.out.printf("Enter values");
+			Scanner input = new Scanner(System.in);
+			int val = input.nextInt();
+			for(int i=0; i<5; i++) {
+				System.out.printf("%d",arr[i]);
+			}
+			
+						
+		
+
+	}
+
+}

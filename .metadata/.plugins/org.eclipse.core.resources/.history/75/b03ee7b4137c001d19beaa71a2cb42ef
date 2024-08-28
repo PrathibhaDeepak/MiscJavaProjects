@@ -1,0 +1,14 @@
+package softwareTesting;
+
+public class EvenWhileLoop {
+
+	public static void main(String[] args) {
+		int num=1;
+		while(num<=15) {
+			System.out.printf("%d", num);
+			num+=2;
+		}
+		
+			}
+
+}

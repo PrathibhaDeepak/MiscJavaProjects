@@ -1,0 +1,8 @@
+package constructorLearn;
+
+public class construct {
+	class Sample{
+		Sample();
+	}
+	
+}

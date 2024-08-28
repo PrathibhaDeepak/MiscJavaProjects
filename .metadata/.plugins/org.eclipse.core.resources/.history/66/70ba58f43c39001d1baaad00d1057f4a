@@ -1,0 +1,11 @@
+package constructorLearn;
+
+public class InheritB extends InheritA {
+	int num1;
+	
+	void displayInheritB() {
+		System.out.println("Welcome to InheritB");
+		
+		
+	}
+}

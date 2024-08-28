@@ -1,0 +1,6 @@
+package interfacePack;
+
+public abstract class Hello {
+	abstract void display(String text);
+
+}

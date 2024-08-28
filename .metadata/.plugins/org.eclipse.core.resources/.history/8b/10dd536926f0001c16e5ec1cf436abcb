@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class InterestCompute {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare required variables
+		double p, i, f, n ;
+		double result;
+		// Get user input
+		System.out.println("Enter Principal Amount: ");
+		Scanner in = new Scanner(System.in);
+		p = in.nextDouble();
+		System.out.println("Enter Rate of Interest: ");
+		i = in.nextDouble();
+		System.out.println("Enter Number of Years: ");
+		n = in.nextDouble();
+		
+		//Calculation
+		
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package JavaTamilClassess;
+
+public class ForTwo {
+
+	public static void main(String[] args) {
+		for(int i = 2; i<=200; i+=2) {
+			System.out.printf("%3d ", i);
+			if(i%8==0) {
+				System.out.print("\n ");
+			}
+		}
+	}
+
+}

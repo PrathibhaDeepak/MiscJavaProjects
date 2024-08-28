@@ -1,0 +1,2 @@
+module AbInterface {
+}

@@ -1,0 +1,41 @@
+package newPack;
+
+import java.util.Scanner;
+
+public class SumAssi {
+
+	public static void main(String[] args) {
+		int sum = 0, num;
+		
+		System.out.print("Enter a number under 10: ");
+		Scanner input = new Scanner(System.in);
+		num = input.nextInt();
+		for(int one=1; one<=10; one++) {
+			if(one%2==1) {
+			
+				System.out.printf("\n", one);	
+				
+				
+			
+			
+			}
+			else {
+				System.out.printf("\nIt is an even number:%d ", one);
+			}
+		}
+		
+
+
+	}
+
+	private static int num(boolean b) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	private static int add(int one) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

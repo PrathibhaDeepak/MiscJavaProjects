@@ -1,0 +1,25 @@
+package arrayPack;
+import java.util.Scanner;
+
+public class MultiArPrac {
+
+	private static final char[][][] values = null;
+
+	public static void main(String[] args) {
+		
+		
+	
+		
+		System.out.println("Enter values: ");
+		Scanner input = new Scanner(System.in);
+		
+		
+		input.close();
+
+		
+		
+		
+
+	}
+
+}

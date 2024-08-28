@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/FirstSelProject/src/selPackage/SelPackClass.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="selPackage.SelPackClass"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="firstSelProject"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="FirstSelProject"/>
+</launchConfiguration>

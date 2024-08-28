@@ -1,0 +1,13 @@
+package fucnOne;
+
+public class OneStatic {
+	
+		
+
+	
+
+	public static void main(String[] args) {
+	
+	}
+
+}

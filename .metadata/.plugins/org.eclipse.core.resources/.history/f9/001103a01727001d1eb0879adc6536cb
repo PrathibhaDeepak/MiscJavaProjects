@@ -1,0 +1,17 @@
+package PackMain;
+import java.util.Scanner;
+public class mainClass {
+	int sum() {
+		return (0);
+	}
+	
+	public static void main(String[] args) {
+		int num1;
+		int num2;
+		Scanner input = new Scanner(System.in);
+		System.out.print("Enter numbers:");
+		int num = input.nextInt();
+		System.out.printf("%d + %d ",num1, num2);
+	}
+}
+}

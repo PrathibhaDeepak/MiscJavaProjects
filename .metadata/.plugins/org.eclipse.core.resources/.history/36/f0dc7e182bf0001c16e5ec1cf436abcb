@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class celsius {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare required variables
+		int C, F;
+		//Get user input
+		System.out.println("Enter the temperature: ");
+		Scanner in = new Scanner(System.in);
+		F = in.nextInt();
+		// Calculation
+		C = (5/9)*(F-32);
+		
+		System.out.print("Fahrenheit of " ,F ,"is: ", C);
+		
+
+	}
+
+}

@@ -1,0 +1,8 @@
+package softwareTesting;
+
+public class EvenWhileLoop {
+
+	public static void main(String[] args) {
+			}
+
+}

@@ -1,0 +1,16 @@
+package arrayPack;
+
+public class arrAdd {
+
+	public static void main(String[] args) {
+		int [] one = {10,20,30};
+		int [] two = {40,50};
+		
+		int len = one.length + two.length;
+		int[] three = new int [len];
+		for(int i=0; i<=len; i++) {
+		System.out.printf("\n",three[len]);
+		}
+	}
+
+}

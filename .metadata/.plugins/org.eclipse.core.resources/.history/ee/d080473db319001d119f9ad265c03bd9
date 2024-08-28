@@ -1,0 +1,10 @@
+package sampleJava;
+
+public class PrimePoper {
+
+	public static void main(String[] args) {
+		System.out.print("Enter a number : ");
+
+	}
+
+}

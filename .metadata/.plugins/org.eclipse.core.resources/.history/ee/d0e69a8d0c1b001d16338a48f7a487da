@@ -1,0 +1,18 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class Table5 {
+
+	public static void main(String[] args) {
+		int num;
+		
+		Scanner input = new Scanner(System.in);
+		 num = input.nextInt();
+		 input.close();
+		
+		System.out.printf("Enter a number: ",num);
+
+	}
+
+}

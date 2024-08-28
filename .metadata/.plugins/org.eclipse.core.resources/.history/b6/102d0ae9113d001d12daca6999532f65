@@ -1,0 +1,14 @@
+package threadPack;
+
+public class SampleThread extends Thread{
+	int a;
+	SampleThread (int a){
+		this.a = a;
+	}
+	void run() {
+		for(int i=0; i<10; i++) {
+			System.out.println("Count" + i + "Thread" + a);
+			Thread.sleep(1000);
+		}
+	}
+}

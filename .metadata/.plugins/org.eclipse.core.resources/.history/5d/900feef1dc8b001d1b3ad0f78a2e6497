@@ -1,0 +1,48 @@
+package softwareTesting;
+
+public class EvenWhileLoop {
+
+	public static void main(String[] args) {
+		/*for(int i=0; i<=10; i++) {
+			System.out.println(i);
+		} */
+		String str = "Welcome Deepa Deepak";
+		String str1 = " to Java";
+		String str2 = " Automation";
+		str.length();
+		String str3 = "Selenium";
+		System.out.println(str3.charAt(4));
+		
+		String str4 = "bcd@gmail.com";
+		String arr[] = str4.split("@");
+		
+		System.out.println(arr[1]);
+		
+		String test = "connection";
+		System.out.println(test.substring(4,-7));
+		
+		
+		
+		/*System.out.println(str.length());
+		System.out.println(str + str1);
+		System.out.println(str1 + str +str1);
+		System.out.println(str + str1 + str2);
+		System.out.println(str2.trim().length());
+		
+		str = "abc@gmail.com";
+		
+		String arr[] = str.split("@"); 	
+		System.out.println(arr[0]);
+		System.out.println(arr[1] );
+		
+		str = "123@gmail.com";
+		//String ar[] = str.split(".");
+		//System.out.println(ar[0]); */
+		
+		
+			
+		
+	}
+	
+
+}

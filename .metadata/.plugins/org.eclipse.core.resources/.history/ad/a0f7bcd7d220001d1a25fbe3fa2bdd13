@@ -1,0 +1,16 @@
+package javaScanner;
+
+import java.util.Scanner;
+
+public class InputScannerTwo {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("What is your name? " );
+		System.out.println("What is your age?");
+		String name = input.nextLine();
+		int age = input.nextInt();
+
+	}
+
+}

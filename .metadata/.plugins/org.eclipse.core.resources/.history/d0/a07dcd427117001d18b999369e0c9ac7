@@ -1,0 +1,19 @@
+package swiPack;
+
+import java.util.Scanner;
+
+public class AssignmentBro {
+
+	public static void main(String[] args) {
+		int num;
+		Scanner in = new Scanner(System.in);
+		num = in.nextInt();
+		System.out.printf("Enter a number:", num);
+		for(int i=1; i<=50; i*=1) {
+			System.out.printf("1*%d=", i);
+		}
+		
+
+	}
+
+}

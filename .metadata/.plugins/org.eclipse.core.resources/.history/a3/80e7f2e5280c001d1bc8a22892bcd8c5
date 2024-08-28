@@ -1,0 +1,14 @@
+package helloLearn;
+
+public class Asessment1 {
+
+	public static void main(String[] args) {
+		int []count = {1,2,3,4,5};
+		
+		for(int i=1; i<count.length; i++) {
+			if(count[i]%2==0) {
+				System.out.println("Even number: " + count[i]);
+			}
+		}
+
+}}

@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class EnString {
+	private String_originalString;
+	private String_encryptedString;
+	
+	public String originalString();
+	{Object _originalString;
+	return _originalString;
+	
+	}
+	public String encriptedString() {
+		
+		return encriptedString();
+	}
+	public void getInput()
+	{
+		Scanner in = new Scanner(System.in);
+		System.out.print("Enter the Input String:\n");
+		String _originalString = in.nextLine();
+		
+		
+	}
+	public Object[] encrypt() {
+		_encryptedString = new String();
+		_encryptedString = "";
+		
+		char c;
+		for(int i=0; i<_originalString.length()-1; i++) {
+			c = _originaString.charAt(i);
+			c = (char)((int)c-1);
+			_encryptedString += Character.toString(c);
+		}
+		return _encryptedString;
+	}
+
+}

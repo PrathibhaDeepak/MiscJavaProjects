@@ -1,0 +1,50 @@
+package java1;
+
+public class Assignment2 {
+
+	public static void main(String[] args) {
+
+		int num=7;
+		int mul;
+		
+		for(int i=1; i<=10; i++) {
+			mul = num*i;
+			System.out.printf("\n%d * %d = %d",num,i,mul);
+		}
+		int odd = 0;
+		int sum=0;
+		for(int j=0; j<10; j++) {
+			
+			if(j%2==1) {
+				sum = sum+j;
+				System.out.printf("\nOdd Number: %d", j);
+			}
+			else {
+				System.out.printf("");
+			
+		
+			}
+		}
+		System.out.printf("\nSum of Odd = %d ", sum, "\t");
+		
+		int tab = 2;
+		int Table;
+		for(int m=1; m<=10; m++) {
+			Table = m*tab;
+		System.out.printf("\n%d *%d = %d", m,tab,Table);
+		
+		}
+		int count=0;
+		for(int a=1; a<=5; a++) {
+			for(int b=1;b<=a; b++) {
+				count++;
+			}
+		System.out.printf("\n",count);
+			
+			
+		}
+		
+		
+	}
+
+}

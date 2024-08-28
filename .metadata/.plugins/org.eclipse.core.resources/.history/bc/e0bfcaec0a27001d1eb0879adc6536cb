@@ -1,0 +1,23 @@
+package fucnOne;
+
+import java.util.Scanner;
+
+public class FunctionsOnePrac {
+	void sum() {
+		sum();
+		return;
+		 
+	}
+
+	public static void main(String[] args) {
+		int Sum,num1,num2;
+		//Sum = num1+num2;
+		Scanner input = new Scanner(System.in);
+		System.out.printf("\nEnter two numbers : " + input.nextInt());
+		int num = input.nextInt();
+				
+		//System.out.printf("sum is %d + %d : %d", num1,num2, Sum);
+		
+	}
+
+}

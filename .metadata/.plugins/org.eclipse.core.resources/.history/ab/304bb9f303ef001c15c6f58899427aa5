@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+public class SimpleInterst {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double Principal, RateOfInterest;
+		int NoOfYears;
+		double SimpleInterest;
+		
+		Scanner in = new Scanner(System.in);
+		//prompt for Principal amount and accept Principal value.
+		System.out.print("\nEnter Principal amount: ");
+		Principal = in.nextDouble();
+		
+		// Prompt for Rate of interest and accept the Rate of interest value.
+		System.out.print("\nEnter value of Intrest: ");
+		RateOfInterest = in.nextDouble();
+		
+		//Prompt for no. of years and accept no. of years value.
+		System.out.print("\nEnter no. of years: ");
+		NoOfYears = in.nextInt();
+		
+		// calculate simple interest.
+		SimpleInterest = Principal * RateOfInterest * NoOfYears/100;
+		
+		System.out.printf("%.2f", SimpleInterest);
+		
+		
+		
+	
+	}
+
+}

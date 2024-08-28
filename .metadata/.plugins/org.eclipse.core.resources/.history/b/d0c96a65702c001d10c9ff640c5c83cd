@@ -1,0 +1,12 @@
+package excerciseJava;
+
+public class Name {
+	public static void display() {
+		
+		System.out.print("Deepa Deepak");
+	}
+	public static void main(String[] args) {
+		System.out.print(display());
+	}
+
+}

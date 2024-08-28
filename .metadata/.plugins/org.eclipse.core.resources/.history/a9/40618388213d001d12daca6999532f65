@@ -1,0 +1,25 @@
+package abstractClass;
+
+public class SampleThread {
+	void start() {
+		
+	}
+	public static void main(String[] args) {
+		SampleThread st = new SampleThread();
+		st.start();
+	}
+	
+
+	/*public void start() {
+		// TODO Auto-generated method stub
+		SampleThread st1 = new SampleThread();
+		SampleThread st2 = new SampleThread();
+		SampleThread st3 = new SampleThread();
+		
+		st1.start();
+		st2.start();
+		st3.start();
+
+	*/
+
+}

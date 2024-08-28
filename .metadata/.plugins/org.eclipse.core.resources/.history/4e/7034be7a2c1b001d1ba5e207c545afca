@@ -1,0 +1,29 @@
+package java1;
+
+public class Assignment2 {
+
+	public static void main(String[] args) {
+
+		int num=7;
+		int mul;
+		
+		for(int i=1; i<=10; i++) {
+			mul = num*i;
+			System.out.printf("\n%d * %d = %d",num,i,mul);
+		}
+		int odd = 0;
+		int sum=0;
+		for(int j=0; j<10; j++) {
+			sum = sum+j;
+			if(j%2==1) {
+				System.out.print("Odd Number");
+			}
+			else {
+				System.out.printf("\n  Even : %d",j);
+			
+		
+		
+		
+	}
+
+}

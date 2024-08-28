@@ -1,0 +1,15 @@
+
+public class stringWrapperPrimitive {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String s = "125.5";
+		double a;
+		a = Double.parseDouble(s);
+		System.out.print(a+5);
+				
+
+	}
+
+}

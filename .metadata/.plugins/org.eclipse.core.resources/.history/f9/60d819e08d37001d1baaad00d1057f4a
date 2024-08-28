@@ -1,0 +1,7 @@
+package fucnOne;
+
+public class StaticOn {
+	int a;
+	static int b;
+
+}

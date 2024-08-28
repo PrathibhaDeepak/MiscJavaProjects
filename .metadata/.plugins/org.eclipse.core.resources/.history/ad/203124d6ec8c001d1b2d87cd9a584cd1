@@ -1,0 +1,26 @@
+package arrayPack;
+import java.util.Scanner;
+
+public class MultiArPrac {
+
+	public static void main(String[] args) {
+		
+		int i,j;
+		int vaules[][];
+		System.out.println("Enter values: ");
+		Scanner input = new Scanner(System.in);
+		int num = input.nextInt();
+		
+		for(int i=0, i<3,i++) {
+			for(int j=0; j<3,j++) {
+				System.out.println("Entered values are: ",[i][j]);
+				
+			}
+		}
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class Table5 {
+
+	public static void main(String[] args) {
+		int num;
+		//int sum = 1;
+		System.out.print("Enter a number: ");
+		Scanner input = new Scanner(System.in);
+		 num = input.nextInt();
+		 input.close();
+		 for(int i=1; i<=10; i++) {
+			 num = num*i;
+			 
+			 System.out.printf("\n",num);
+			 }
+			 
+			 
+		 }
+		
+
+	
+
+}

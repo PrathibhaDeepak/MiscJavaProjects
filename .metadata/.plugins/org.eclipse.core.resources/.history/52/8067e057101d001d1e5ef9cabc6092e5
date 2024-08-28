@@ -1,0 +1,18 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class FahToDegree {
+
+	public static void main(String[] args) {
+		int temp;
+		int cel;
+		int fahr;
+		
+		System.out.print("Enter temperature: ");
+		Scanner input = new Scanner(System.in);
+		temp = input.nextInt();
+		input.close();
+	}
+
+}

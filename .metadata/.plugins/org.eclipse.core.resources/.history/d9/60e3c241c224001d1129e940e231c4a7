@@ -1,0 +1,27 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class SortPrac {
+
+	public static void main(String[] args) {
+		int limit, i;
+		int values;
+		
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print("Enter the limit: ");
+		limit = input.nextInt();
+		
+		System.out.print("Enter values: ");		
+		for(i=0; i<limit; i++) {
+			values = input.nextInt();
+			
+		}
+		
+		
+		
+
+	}
+
+}

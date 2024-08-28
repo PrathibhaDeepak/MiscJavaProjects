@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class areaOfCircle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare variable
+		
+		float r, area;
+		//Get user input for Radius
+		System.out.println("Enter radius: ");
+		Scanner in = new Scanner(System.in);
+		r = in.nextFloat();
+		
+
+	}
+
+}

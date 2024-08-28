@@ -1,0 +1,13 @@
+package helloLearn;
+
+public class SingleMulti {
+
+	public static void main(String[] args) {
+		int num [][] = new int [3][];
+		
+		for(int i=0; i<num.length; i++) {
+			num[i] = new int[5];
+		}
+	}
+
+}

@@ -1,0 +1,11 @@
+package pracArrayOne;
+
+public class newMult {
+
+	public static void main(String[] args) {
+		int [][] arr;
+		System.out.print("Enter values: ");
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package helloLearn;
+
+import java1.string;
+
+public class copyDemo {
+
+	public static void main(String[] args) {
+		char []one = {'f','u','n','l','i','f','e'};
+		char []two = new char[6];
+		
+		System.arraycopy(one, 3, two, 0, 2);
+		System.out.println(two);
+		
+		
+		char []copyFrom = {'j','a','v','a',' ', 'i','s',' ','f','u','n' };
+		char []copyTo = new char[3];
+		 
+		System.arraycopy(copyFrom,8,copyTo,0,3);
+		System.out.println(copyTo);
+		char []cupFrom = {'a','w','e','s','o','m','e',' ','l','i','f','e'	};
+		//char []cupTo = new char[4];
+		char [] cupTo = {'s','o','m','e','a','w','e','s','o','m','e'};
+		System.arraycopy(cupFrom, 4, cupTo, 2,3);
+		System.out.println(cupTo);
+
+}}

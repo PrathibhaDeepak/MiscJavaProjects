@@ -1,0 +1,25 @@
+package newPack;
+
+import java.util.Scanner;
+
+public class NewMulti {
+
+	public static void main(String[] args) {
+		int num;
+		
+		
+		System.out.print("Enter a number: ");
+		
+		Scanner input = new Scanner(System.in);
+		num = input.nextInt();
+		input.close();
+		for(int mult=1; mult<=10; mult++) {
+			int result = mult*num;
+		
+			System.out.printf("\n%d * %d = %d" ,mult,num,result);
+		}
+	}
+
+
+
+}

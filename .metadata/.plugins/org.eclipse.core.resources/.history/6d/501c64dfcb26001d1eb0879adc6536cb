@@ -1,0 +1,30 @@
+package pracArrayOne;
+
+public class ArrTwo {
+
+	public static void main(String[] args) {
+		/*int count=1;
+		for(int i=1; i<=5; i++) {
+			for(int j=1; j<=i; j++) {
+				count = count+i;
+			System.out.print(j);
+			}
+		System.out.printf("\n");
+		
+				
+		}*/
+		int [][] list ={{10,12,14,16},{18,29, 44,39}};
+		int x,y;
+	
+	
+		for( x=0; x<list.length; x++) {
+			for( y=0; y<x; y++) {
+				System.out.print(list[x][y]);}
+				
+			}
+			
+		
+		
+	}
+
+}

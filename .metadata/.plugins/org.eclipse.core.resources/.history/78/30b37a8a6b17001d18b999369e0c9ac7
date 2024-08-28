@@ -1,0 +1,17 @@
+package swiPack;
+
+import java.util.Scanner;
+
+public class Switch {
+
+	public static void main(String[] args) {
+			int choice;
+		System.out.print("1 for Parotta\n 2 for Biryani \n 3 for Fried Rice \n 4 for Mandhi\n Select your choice");
+		Scanner in = new Scanner(System.in);
+		choice = in.nextInt();
+		System.out.printf("Enter your choice: ", in);
+	
+	
+	}
+
+}

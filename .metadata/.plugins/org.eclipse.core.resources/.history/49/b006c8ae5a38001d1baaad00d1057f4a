@@ -1,0 +1,15 @@
+package functionsPack;
+
+public class PracStat {
+	int num1 = 10;
+	static int num2 = 25;
+
+	public static void main(String[] args) {
+		PracStat stat = new PracStat();
+		 stat.num1 = 20;
+		 stat.num2 = 55;
+		 
+		 System.out.println("Num1: " +stat.num1+ "Num2: " + stat.num2);
+	}
+
+}

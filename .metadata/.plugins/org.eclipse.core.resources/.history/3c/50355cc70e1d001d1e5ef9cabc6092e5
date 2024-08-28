@@ -1,0 +1,25 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class ArrPrac {
+
+	public static void main(String[] args) {
+			
+		
+		int []arr = {10,20,30,40,50};
+		//System.out.print("Enter values");
+		for(int i=0; i<5; i++){
+			
+			System.out.printf("\nValue:%d",arr[i]);
+		}
+		System.out.printf("\nEntered Value:%d\n",arr[2]);
+		
+		for(int i>5; i>0; i--){
+			System.out.printf("\nNewly entered values: %d",arr[i]);
+		}
+		
+			
+	}
+
+}

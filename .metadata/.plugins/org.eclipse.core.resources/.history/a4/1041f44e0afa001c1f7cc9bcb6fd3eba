@@ -1,0 +1,14 @@
+package JavaJuly;
+
+public class evenSmall {
+	public void FindSum(){
+		int i;
+		int sum = 0;
+		
+		for(i=2; i<=30; i+=2) {
+			sum += i;
+			System.out.print(i);
+		}
+		System.out.printf("/n %d ", sum);
+	}
+}

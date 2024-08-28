@@ -1,0 +1,21 @@
+package constructorLearn;
+import java.util.*;
+public class ArrayCheckList {
+
+	public static void main(String[] args) {
+		
+		num1 numb = new num1();
+		numb.num5;
+		
+		Scanner input = new Scanner (System.in);
+		System.out.println("Enter a number: ");
+		int num = input.nextInt();
+		//int num [5] = input.nextInt();
+		for(int i=1; i<=num; i++) {
+			System.out.println(i);
+		}
+		
+
+	}
+
+}

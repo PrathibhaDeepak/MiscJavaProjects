@@ -1,0 +1,32 @@
+package fucnOne;
+
+import java.util.Scanner;
+
+public class FunctionsOnePrac {
+	
+	void sum() {
+		sum();
+		sum();
+		sum()
+		return;
+		 
+	}
+
+	
+	public static void main(String[] args) {
+		int num1, num2;
+		int sum = 0;
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print("Enter digits: ");
+		
+		int num = input.nextInt();
+		sum = num1+ input.nextInt();		
+		System.out.println(sum);
+		
+		
+				
+		
+	}
+
+}

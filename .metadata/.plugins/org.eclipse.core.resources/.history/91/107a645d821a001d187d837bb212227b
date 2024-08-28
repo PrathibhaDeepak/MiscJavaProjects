@@ -1,0 +1,17 @@
+package arrayPack;
+
+public class BreakContinue {
+
+	public static void main(String[] args) {
+		for(int i=0; i<=10; i++)
+		{System.out.print("\nHi");
+			if(i==4) {
+				break;}
+			System.out.print("\nHello");
+				
+			}
+		System.out.print("Program completed");
+		}
+	}
+
+

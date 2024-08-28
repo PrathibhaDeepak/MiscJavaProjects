@@ -1,0 +1,13 @@
+package constructorLearn;
+//import java.util.*;
+public class ArrayCheckList {
+
+	public static void main(String[] args) {
+		
+		
+		ArrayCheckList list = new ArrayCheckList();
+		
+
+	}
+
+}

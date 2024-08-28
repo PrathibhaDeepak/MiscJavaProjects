@@ -1,0 +1,11 @@
+package thisK;
+
+public class KeySample {
+	int a =100, b =200;
+	
+	KeySample(int a, int b){
+		this.a = a;
+		this.b = b;
+		System.out.println("a:" + a + "b:"+ b);
+	}
+}

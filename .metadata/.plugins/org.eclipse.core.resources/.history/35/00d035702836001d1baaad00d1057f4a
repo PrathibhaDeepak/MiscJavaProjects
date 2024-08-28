@@ -1,0 +1,15 @@
+package primeClass;
+import java.util.*;
+public class AssignmentPrime {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter a number: ");
+		int num1 = input.nextInt();
+		
+		PrimeMethod num = new PrimeMethod();
+		PrimeMethod count = new PrimeMethod();
+
+	}
+
+}

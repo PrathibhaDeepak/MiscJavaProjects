@@ -1,0 +1,46 @@
+
+public class whileLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare variables
+		int oddn = 1;
+		while (oddn<=100) {
+			System.out.println(oddn);
+			oddn+=2;
+			System.out.print("-----------");
+		int eveno = 0;
+		do {
+			System.out.printf("\nIt is an even number: ");
+			eveno+;
+			}while(eveno %2==0);
+		
+		
+
+			
+		/*
+		int counting = 0;
+		while(counting<=100) {
+			if(counting % 2==0) {
+				counting++;
+				continue;
+			}
+		System.out.printf("\n%d", counting);
+		counting+=2;
+		
+		int counting = 0;
+		//counting+=5;
+		while(counting<=50) {
+			System.out.printf("\n%d", counting);
+			counting+=5;
+		
+		int i = 0;
+		i+=2;
+		
+		while(i<=15) {
+			System.out.println(i);
+			i+=2; */
+		}
+	}
+
+}

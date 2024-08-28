@@ -1,0 +1,38 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class ArrPrac1 {
+
+	public static void main(String[] args) {
+		int limit;
+		int i;
+		int  arr[] = new int[4];
+		System.out.print("Enter vlaues: ");
+		
+		
+		Scanner input = new Scanner(System.in);
+		limit = input.nextInt();
+		
+		System.out.printf("Entered : ", limit);
+		
+		
+		for( i=1; i<=limit; i++) {
+			int values = input.nextInt();
+			//input(arr[i]);
+		
+		}
+		for(i=0; i<5; i++) {
+		System.out.print(limit);}
+		//input.close();
+	}
+
+	private static void input(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+
+}

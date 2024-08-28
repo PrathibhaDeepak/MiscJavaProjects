@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class ifElse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double Incentive;
+		
+		Scanner in = new Scanner(System.in);
+		Incentive = in.nextDouble();
+		System.out.print("Enter the sales amount %d ");
+	}
+
+}

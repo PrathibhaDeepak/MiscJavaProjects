@@ -1,0 +1,21 @@
+package arrayPack;
+
+public class arrAdd {
+
+	public static void main(String[] args) {
+		int [] one = {10,20,30};
+		int [] two = {40,50};
+		int i, j;
+		
+		
+		for( i=0; i<=one.length; i++) {
+			for( j=0; j<=two.length; j++) {
+				System.out.printf("numbers are: ",one[i],two[j]);
+			}
+		
+		//System.out.println(two[j]);
+
+		}
+	}
+
+}

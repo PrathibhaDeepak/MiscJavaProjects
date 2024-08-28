@@ -1,0 +1,10 @@
+package pracArrayOne;
+
+public class PractiseWithoutArg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

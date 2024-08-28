@@ -1,0 +1,29 @@
+
+public class whileLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int counting = 1;
+		while(counting<=100) {
+			if(counting % 2==0) {
+				counting++;
+			}
+		System.out.printf("\n%d", counting);
+		
+		/*
+		int counting = 0;
+		//counting+=5;
+		while(counting<=50) {
+			System.out.printf("\n%d", counting);
+			counting+=5;
+		
+		int i = 0;
+		i+=2;
+		
+		while(i<=15) {
+			System.out.println(i);
+			i+=2; */
+		}
+	}
+
+}

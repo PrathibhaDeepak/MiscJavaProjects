@@ -1,0 +1,25 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class ArrPrac1 {
+
+	public static void main(String[] args) {
+		int limit;
+		int  arr[];
+		arr = new int[50];
+		System.out.print("Enter array limit: ");
+		Scanner input = new Scanner(System.in);
+		limit = input.nextInt();
+		input.close();
+		
+		System.out.print("Enter vlaues: ");
+		
+		for(int i=1; i<=limit; i++) {
+			System.out.printf("\nEntered values: %d ",arr[i]);
+			
+		}
+
+	}
+
+}

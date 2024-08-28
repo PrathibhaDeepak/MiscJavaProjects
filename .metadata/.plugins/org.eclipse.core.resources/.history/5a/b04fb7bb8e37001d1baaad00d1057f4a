@@ -1,0 +1,12 @@
+package fucnOne;
+
+public class OneStatic {
+
+	public static void main(String[] args) {
+		StaticOn One = new StaticOn();
+		One.a = 10;
+		System.out.println(a);
+
+	}
+
+}

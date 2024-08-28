@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class celsius {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare required variables
+		float C, F;
+		float result;
+		//Get user input
+		System.out.println("Enter the temperature: ");
+		Scanner in = new Scanner(System.in);
+		F = in.nextFloat();
+		// Calculation
+		C = F-32*(5/9);
+		
+		
+		System.out.printf("Fahrenheit of %.2f in Celsius is: ",result);
+		
+
+	}
+
+}

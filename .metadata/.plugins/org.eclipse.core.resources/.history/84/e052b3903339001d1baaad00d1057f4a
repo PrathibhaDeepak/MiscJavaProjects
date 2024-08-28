@@ -1,0 +1,12 @@
+package constructorLearn;
+
+public class num1 {
+	public Object num5;
+
+	num1(){
+		int num5 [] = {5, 10, 20,30,40};
+		System.out.println(num5);
+	}
+	
+	
+}

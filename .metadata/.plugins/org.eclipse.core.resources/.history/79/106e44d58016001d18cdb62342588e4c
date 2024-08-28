@@ -1,0 +1,19 @@
+package javaEdu;
+
+public class Clang {
+
+	public static void main(String[] args) {
+		float num1=20,num2=50, num3=70;
+		float average = (num1+num2+num3)/3;
+		
+		
+		
+		System.out.printf("\n Average is : %d",average);
+		 
+		
+		
+	}
+}
+
+
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1665977240099_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1665977240121_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676073419057_4" label="Main Java Projects" name="Main Java Projects">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AbInterface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArrayLearn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AssignmentJava1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BroJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Calculator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ClassObj" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ColRow" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Edureka_Hello" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FirstMain" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FirstSelenium" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FunctionsJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FunctionsOne" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Hello_Learn_Vern" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HindiClass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/InputJavaScanner" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaForTesting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaSample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaTamil" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaTamilClasses" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JulyTamilJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ManualTestingNotes" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NewClass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ObjectConcept" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PracticOneArr" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PrimeCheck" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PrimeTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SwitchOne" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TenBrototype" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ThisKey" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/VQFox" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/constructorLearn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/new" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/packagePack" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676073739395_6" label="One" name="One">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AbInterface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArrayLearn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AssignmentJava1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BroJava" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676073894052_7" label="TWO" name="TWO">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Calculator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ClassObj" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ColRow" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/constructorLearn" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676074029884_8" label="Three" name="Three">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Edureka_Hello" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FirstMain" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FirstSelenium" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FunctionsJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FunctionsOne" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676074156917_9" label="ImpJavaPrograms" name="ImpJavaPrograms">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BroJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ClassObj" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FunctionsJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FunctionsOne" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PrimeCheck" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PrimeTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SwitchOne" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ThisKey" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676074202922_10" label="SeleniumOne" name="SeleniumOne"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676238581831_11" label="MavenTest" name="MavenTest"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1665977241723_2" label="Window Working Set" name="Aggregate for window 1665977241723"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1666217773572_3" label="Window Working Set" name="Aggregate for window 1654461552639"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676073460010_5" label="Multiple Working Sets" name="Aggregate:Java Main Sources:Main Java Projects:">
+<workingSet IMemento.internal.id="Java Main Sources"/>
+<workingSet IMemento.internal.id="Main Java Projects"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1676241725437_13" label="Multiple Working Sets" name="Aggregate:Java Test Sources:MavenTest:">
+<workingSet IMemento.internal.id="Java Test Sources"/>
+</workingSet>
+<mruList name="SeleniumOne"/>
+<mruList name="Java Test Sources"/>
+<mruList name="MavenTest"/>
+<mruList name="Three"/>
+</workingSetManager>

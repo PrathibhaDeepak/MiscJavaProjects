@@ -1,0 +1,30 @@
+package javaScanner;
+
+import java.util.Scanner;
+
+public class SumArrayInput {
+
+	
+	public static void main(String[] args) {
+		int limit,  i;
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter limit:");
+		limit = input.nextInt();
+		
+		input.nextInt();
+		System.out.println("Enter values: ");
+		int num [] = new int [10];
+		int numb = input.nextInt();
+		for(i=0; i<numb; i++)
+		{
+			System.out.println(num[i]);
+		}
+		
+				
+
+		
+
+	}
+
+}

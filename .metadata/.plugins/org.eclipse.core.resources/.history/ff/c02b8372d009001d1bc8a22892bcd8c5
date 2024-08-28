@@ -1,0 +1,16 @@
+package helloLearn;
+
+public class Assessment_Array {
+
+	public static void main(String[] args) {
+		int [] ant = {1,2,3,4,5};
+		int odd, even, count;
+		for(int i=0; i<ant.length; i++) {
+			if(int ant%2==0) {
+				//count = ant+i;
+				System.out.println("Even: " + ant);
+			}
+		}
+		
+
+}}

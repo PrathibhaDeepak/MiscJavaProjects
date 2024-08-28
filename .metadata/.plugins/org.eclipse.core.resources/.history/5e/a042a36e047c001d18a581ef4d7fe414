@@ -1,0 +1,31 @@
+package softwareTesting;
+
+import java.util.Scanner;
+
+public class AssignUdemyOne {
+
+	public static void main(String[] args) {
+		int num1, num2;
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter value num1: ");
+		num1 = input.nextInt();
+		System.out.println("Enter value num2: ");
+		num2 = input.nextInt();
+		
+		/*if(num1 > num2) {
+			System.out.printf("First entered number %d is the largest number", num1);
+		}
+		else {
+			System.out.printf("Second number %d is the largest number%d",num2);
+			
+			}
+		}*/
+
+	
+		String result = (num1>num2)?"num1 larger: %d" : "num2 larger: %d";
+		
+	
+	
+
+}}

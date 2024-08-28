@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+public class InterestCompute {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare required variables
+		double P,R,N,I ;
+		double Result;
+		// Get user input
+		System.out.println("Enter Principal Amount: ");
+		Scanner in = new Scanner(System.in);
+		P = in.nextDouble();
+		System.out.println("Enter Rate of Interest: ");
+		I = in.nextDouble();
+		System.out.println("Enter Number of Years: ");
+		N = in.nextDouble();
+		
+		//Calculation
+		I = R/100;
+		
+		result = p* Math.pow(1+I,N);
+		//Display result
+		System.out.printf("Interest for %.2f ", I);
+		System.out.printf("The Result of F is: ", Result);
+		
+				
+				
+		
+		
+
+	}
+
+}

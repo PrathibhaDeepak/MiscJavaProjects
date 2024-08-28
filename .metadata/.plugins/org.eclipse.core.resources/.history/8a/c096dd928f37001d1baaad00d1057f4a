@@ -1,0 +1,16 @@
+package fucnOne;
+
+public class OneStatic {
+	int a;
+	static int b;
+
+	
+
+	public static void main(String[] args) {
+		OneStatic One = new OneStatic();
+		One.a = 10;
+		System.out.println(a);
+
+	}
+
+}

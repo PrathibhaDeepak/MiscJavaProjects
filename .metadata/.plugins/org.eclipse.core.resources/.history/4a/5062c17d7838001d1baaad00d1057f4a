@@ -1,0 +1,10 @@
+package constructorLearn;
+
+public class ThisKey {
+
+	public static void main(String[] args) {
+		ThisSample samp = new ThisSample(10,20);
+
+	}
+
+}

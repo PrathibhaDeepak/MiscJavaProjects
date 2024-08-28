@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class ifElse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double Incentive,Salesamount;
+		
+		Scanner in = new Scanner(System.in);
+		System.out.print("Enter the sales amount:  ");
+
+		Salesamount = in.nextDouble();
+		//Calculation
+		Incentive = Salesamount*(10/100.0);
+		 
+		
+		if(Incentive>=1000) {
+			System.out.printf("Your Insentive is %2f" , Incentive);
+			
+		}
+		else {
+			System.out.print("No incentive available");
+		}
+	}
+
+}

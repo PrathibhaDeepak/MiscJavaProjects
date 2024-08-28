@@ -1,0 +1,9 @@
+package abstractClass;
+
+public abstract class Hello {
+	abstract void onText(String text);
+	
+	void display(){
+		System.out.println("This is abstract calss!");
+	}
+}

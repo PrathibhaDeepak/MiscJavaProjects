@@ -1,0 +1,2 @@
+module SwitchOne {
+}

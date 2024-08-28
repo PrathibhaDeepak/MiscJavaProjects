@@ -1,0 +1,12 @@
+package secondPackage;
+
+public class FruitClass {
+
+	public static void main(String[] args) {
+		CarClass Audi = new CarClass();
+		
+		Audi.startCar();
+
+	}
+
+}

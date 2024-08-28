@@ -1,0 +1,21 @@
+package fucnOne;
+
+import java.util.Scanner;
+
+public class FunctionsOnePrac {
+	/*void sum() {
+		sum();
+		return;
+		 
+	}*/
+
+	public static void main(String[] args) {
+		int num = 0;
+		Scanner input = new Scanner(System.in);
+		System.out.print(num);
+		num = input.nextInt();		
+				
+		
+	}
+
+}

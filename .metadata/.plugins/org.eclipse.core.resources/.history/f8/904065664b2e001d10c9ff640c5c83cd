@@ -1,0 +1,21 @@
+package excerciseJava;
+
+public class Name {
+	public static int display(int num1, int num2) {
+		
+		int sum=  num1+num2;
+		return sum;
+		
+		//System.out.print("Deepa Deepak");
+		//return;
+	}
+	public static void main(String[] args) {
+		int num1 = 17;
+		int num2 = 75;
+		int sum = display(num1,num2);
+		System.out.println(sum);
+	}
+	
+
+
+}

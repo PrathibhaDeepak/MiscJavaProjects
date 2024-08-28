@@ -1,0 +1,32 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+		int a;
+		
+		a = 10;
+		
+		String s = "India\\'s place";
+		String b = "India\'s place";
+
+		System.out.println(s);
+		System.out.println(b);
+		
+		
+		//PrintStream cout = System.out;
+		
+		int x;
+		int y;
+		
+		x = 2;
+		y = ++x;
+		y = x++;
+		System.out.print(y + \n);
+		
+		
+
+	}
+
+}

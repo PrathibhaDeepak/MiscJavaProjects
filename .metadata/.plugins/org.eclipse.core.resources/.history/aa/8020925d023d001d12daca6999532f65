@@ -1,0 +1,13 @@
+package abstractClass;
+
+public class TextScanner {
+	Hi obj;
+	public TextScanner(Hi obj) {
+		this.obj = obj;
+		
+	}
+	void scan() {
+		obj.onText("Scanned Text");
+	}
+
+}

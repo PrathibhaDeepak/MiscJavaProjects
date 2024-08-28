@@ -1,0 +1,18 @@
+package PackMain;
+import java.util.Scanner;
+public class mainClass {
+	int sum() {
+		return (0);
+	}
+	
+	public static void main(String[] args) {
+		int num1=99;
+		int num2=87;
+		Scanner input = new Scanner(System.in);
+		System.out.printf("Entered numbers \n %d \n%d", num1, num2);
+		int num = input.nextInt();
+		int sum = num1+num2;
+		System.out.print(sum);
+	}
+
+}

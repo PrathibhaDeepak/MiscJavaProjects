@@ -1,0 +1,26 @@
+package pracArrayOne;
+
+import java.util.Scanner;
+
+public class newMult {
+	public static void Sum() {
+		int num1, num2,sum;
+		
+		Scanner input = new Scanner(System.in);
+		System.out.print("Enter two numbers: ");
+		num1 = input.nextInt();
+		num2 = input.nextInt();
+		
+		sum = num1+ num2;
+		System.out.printf("\nSum is: %d \n", sum);
+	}
+	
+
+	public static void main(String[] args) {
+		Sum();
+	
+		Sum();
+	
+	}
+
+}

@@ -1,0 +1,12 @@
+package abstractClass;
+
+public class SampleThread {
+
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+
+}

@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class fiveLetterString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare variable;
+		//String res = "";
+		String s;
+		
+		Scanner in = new Scanner(System.in);
+		
+		System.out.print("Enter a five letter word: ");
+		s = in.nextLine();
+
+		
+		
+
+	}
+
+}

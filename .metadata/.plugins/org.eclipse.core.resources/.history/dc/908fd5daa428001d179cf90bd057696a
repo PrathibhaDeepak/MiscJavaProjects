@@ -1,0 +1,21 @@
+package pracArrayOne;
+
+import java.util.Scanner;
+
+public class PracFunction {
+	public static int Prod(int num1, int num2) {
+		return num1*num2;
+	}
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter values: ");
+		int one = input.nextInt();
+		int two = input.nextInt();
+		
+		int three = Prod(one, two);
+		
+		System.out.printf("Product is: ", three);
+	}
+
+}

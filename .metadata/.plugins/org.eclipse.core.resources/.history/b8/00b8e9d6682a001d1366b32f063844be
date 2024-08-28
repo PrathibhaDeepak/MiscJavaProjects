@@ -1,0 +1,11 @@
+package objConceptPack;
+
+public class TwoSample {
+	int a;
+	int b;
+	
+	void display() {
+		System.out.println(a);
+	}
+
+}

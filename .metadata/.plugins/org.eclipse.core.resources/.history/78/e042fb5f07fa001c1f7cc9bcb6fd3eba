@@ -1,0 +1,19 @@
+package JavaJuly;
+
+public class SumOfEvenIntegers {
+	public void FindTotal() {
+		// declare variables
+		int i;
+		int sum = 0;
+		
+		for(i=2; i<100; i+=3) {
+			if(i%5==0) {
+				sum+=i;
+				
+				
+			}
+			System.out.printf("Sum is: %d", sum );
+		}
+	}
+
+}

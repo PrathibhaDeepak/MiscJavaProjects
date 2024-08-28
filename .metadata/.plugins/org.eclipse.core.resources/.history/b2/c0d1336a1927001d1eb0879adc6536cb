@@ -1,0 +1,20 @@
+package PackMain;
+import java.util.Scanner;
+public class mainClass {
+	int sum() {
+		return (0);
+	}
+	
+	public static void main(String[] args) {
+		int num1=10;
+		int num2=7;
+		int sum;
+		Scanner input = new Scanner(System.in);
+		System.out.printf("Entered numbers \n %d \n%d", num1, num2);
+		int num = input.nextInt();
+		sum = num1+num2;
+		
+		System.out.printf("\n Sum is: ", sum);
+	}
+
+}

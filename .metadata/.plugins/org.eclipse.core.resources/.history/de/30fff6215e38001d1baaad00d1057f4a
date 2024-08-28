@@ -1,0 +1,13 @@
+package functionsPack;
+
+public class SecondClass {
+	void displaySecond() {
+
+		FirstClass first = new FirstClass();
+		first.DisplayFirst();
+
+	}
+
+	
+	
+}

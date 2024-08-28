@@ -1,0 +1,22 @@
+package arrayPack;
+
+public class Pat4Assignment {
+
+	public static void main(String[] args) {
+System.out.print("\n\n 4- Pattern Assignment");
+		
+		int star=5;
+		for(int x=1; x<=star; x++) {
+			for(int y=1; y<=x; y++)
+			System.out.print("* ");
+		}
+		System.out.println();
+		
+		
+		
+		
+		
+
+	}
+
+}

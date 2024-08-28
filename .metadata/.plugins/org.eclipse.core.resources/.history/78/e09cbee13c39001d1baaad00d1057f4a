@@ -1,0 +1,8 @@
+package constructorLearn;
+
+public class InheritA {
+	int num;
+	System.out.prinln("Welcome to Inheritance")
+	
+
+}

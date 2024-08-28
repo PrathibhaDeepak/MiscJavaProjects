@@ -1,0 +1,21 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class SumOf100 {
+
+	public static void main(String[] args) {
+		int num, sum=0;
+		System.out.printf("Enter a number:");
+		Scanner input = new Scanner(System.in);
+		num = input.nextInt();
+		input.close();
+		for(int i=1; i<=num; i++) {
+			sum = sum+i;
+		}
+		
+		System.out.printf("Sum = %d ", sum);
+		
+	}
+
+}

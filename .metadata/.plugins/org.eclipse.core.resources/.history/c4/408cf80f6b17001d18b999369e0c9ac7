@@ -1,0 +1,9 @@
+package swiPack;
+
+public class Switch {
+
+	public static void main(String[] args) {
+		String food = "Parotta", "Biriyani", "Fried Rice", "Mandhi";
+	}
+
+}

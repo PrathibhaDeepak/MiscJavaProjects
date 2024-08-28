@@ -1,0 +1,50 @@
+import java.util.Scanner;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+
+		/* 
+		int a = 25;
+		int b = 45;
+		float x = 35.634f;
+		int c = a+b;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(x);
+		System.out.println(c);
+		System.out.printf("Formatted output");
+		System.out.printf("%d\n%d\n%d\n%.2f", a,b,c,x);
+		
+		//PrintStream cout = System.out;
+		*/
+		double Prin;
+		double Rat;
+		int Yea;
+		double Simple;
+		
+		Scanner in = new Scanner(System.in);
+		System.out.println("\n Enter your Principal salary: ");
+		Prin = in.nextDouble();
+		System.out.println("\n Enter your percentage: ");
+		Rat = in.nextDouble();
+		System.out.println("\n Enter years: ");
+		Yea = in.nextInt();
+		
+		Simple = Prin*Rat*Yea/100;
+		System.out.println("The total amount is: "+ Simple);
+		
+		
+		
+		
+		
+		
+
+	}
+
+	
+
+}
+	

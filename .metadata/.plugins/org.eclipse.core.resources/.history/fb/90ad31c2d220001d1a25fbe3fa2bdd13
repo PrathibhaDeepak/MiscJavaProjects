@@ -1,0 +1,10 @@
+package javaScanner;
+
+public class InputScannerTwo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

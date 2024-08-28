@@ -1,0 +1,16 @@
+package youTubevqFox;
+
+import java.util.Scanner;
+
+public class ForEach {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		Object [] arr;
+		int obj = input.nextInt();
+		
+		System.out.println("Enter numbers");
+
+	}
+
+}

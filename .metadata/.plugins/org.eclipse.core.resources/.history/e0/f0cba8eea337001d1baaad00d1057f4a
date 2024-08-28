@@ -1,0 +1,21 @@
+package functionsPack;
+
+public class NewOne {
+	static int a;
+	static int b;
+	int total;
+	void add() {
+		total = a + b;
+	}
+
+	public static void main(String[] args) {
+		NewOne obj = new NewOne();
+		obj.a = 10;
+		obj.b = 20;
+		obj.total = add(a,b);
+		
+		System.out.println("Addition = " + obj.total);
+
+	}
+
+}

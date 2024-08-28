@@ -1,0 +1,22 @@
+package fucnOne;
+
+import java.util.Scanner;
+
+public class FunctionsOnePrac {
+	void sum() {
+		sum();
+		return;
+		 
+	}
+
+	public static void main(String[] args) {
+		
+		try (Scanner input = new Scanner(System.in)) {
+			System.out.printf("\nEnter two numbers : " , input.nextInt());
+		}
+		
+				
+		
+	}
+
+}

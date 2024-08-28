@@ -1,0 +1,35 @@
+package newPack;
+
+import java.util.Scanner;
+
+public class SumAssi {
+
+	public static void main(String[] args) {
+		int sum = 0, num;
+		
+		System.out.print("Enter a number under 10: ");
+		Scanner input = new Scanner(System.in);
+		num = input.nextInt();
+		input.close();
+		
+		for(int odd=1; odd<=5; odd++) {
+			if(odd%2==0) {
+				sum = sum+odd;
+							/*else
+			{
+				System.out.printf("\nIt is an even number %d", odd);
+			}*/
+		}System.out.printf("\nOdd Sum: %d", sum);
+		}
+
+		
+					
+				
+			
+			
+			
+}
+		
+
+
+}

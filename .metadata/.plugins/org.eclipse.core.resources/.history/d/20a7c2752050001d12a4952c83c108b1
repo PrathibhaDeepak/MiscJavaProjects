@@ -1,0 +1,6 @@
+package fourth;
+
+public class TenthDetails extends TenthGrade {
+	
+
+}

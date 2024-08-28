@@ -1,0 +1,16 @@
+package functionsPack;
+
+public class SecondClass {
+	void displaySecond() {
+
+		FirstClass first = new FirstClass();
+		first.DisplayFirst();
+
+	}
+	void nextDisplay() {
+		System.out.println("This is awesome!");
+	}
+
+	
+	
+}

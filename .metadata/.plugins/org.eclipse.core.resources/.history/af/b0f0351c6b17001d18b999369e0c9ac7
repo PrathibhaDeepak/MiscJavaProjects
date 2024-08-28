@@ -1,0 +1,9 @@
+package swiPack;
+
+public class Switch {
+
+	public static void main(String[] args) {
+		System.out.print("1 for Parotta\n 2 for Biryani \n 3 for Fried Rice \n 4 for Mandhi");
+				}
+
+}

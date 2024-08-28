@@ -1,0 +1,19 @@
+package javaEdu;
+
+import java.util.Scanner;
+
+public class ElecEdu {
+
+	public static void main(String[] args) {
+		int age;
+		
+		Scanner in = new Scanner(System.in);
+		System.out.println("Enter your age: ", age);
+		
+		age = in.nextInt();
+		if(age>=18) {
+			
+		}
+	}
+
+}

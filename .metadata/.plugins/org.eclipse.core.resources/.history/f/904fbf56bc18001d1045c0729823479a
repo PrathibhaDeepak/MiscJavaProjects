@@ -1,0 +1,22 @@
+package newPack;
+
+import java.util.Scanner;
+
+public class SumAssi {
+
+	public static void main(String[] args) {
+		int sum = 0, num;
+		
+		System.out.print("Enter a number under 10: ");
+		Scanner input = new Scanner(System.in);
+		num = input.nextInt();
+					
+				
+			
+			
+			
+}
+		
+
+
+}

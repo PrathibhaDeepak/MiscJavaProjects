@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class basicSalesPrice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare required variables
+		double grade, sales;
+		
+		//Get user input
+		Scanner in = new Scanner(System.in);
+		System.out.print("Enter basic sales price: ");
+		System.out.print("Enter the grade: ");
+		grade = in.newDouble();
+		sales = in.newDouble();
+		
+		//Calculation
+		double basic;
+		if(grade==1) {
+			basic = sales;
+			System.out.printf("Basic sales price %f ", basic);
+			
+		}
+		else if(grade==2) {
+			basic = sales+((10/100.0)*sales);
+			System.out.printf("Basic sales for grade two %2f", basic);
+		}
+		
+		//Display result
+	}
+
+}

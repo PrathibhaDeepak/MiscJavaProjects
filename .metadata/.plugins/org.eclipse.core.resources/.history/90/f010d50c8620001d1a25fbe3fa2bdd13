@@ -1,0 +1,16 @@
+package arrayPack;
+
+public class ArrayCla {
+
+	public static void main(String[] args) {
+		int num=4;
+		int sum;
+		
+		for(int i=1; i<=num; i++) {
+			System.out.println(i);
+			sum = sum+i;
+		}
+		System.out.println("Sum is: %d", sum);
+	}
+
+}

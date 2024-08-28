@@ -1,0 +1,16 @@
+
+public class stringWrapperPrimitive {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String one = "125";
+		int two;
+		
+		two = int.parseInt(one);
+		System.out.print(one+5);
+				
+
+	}
+
+}

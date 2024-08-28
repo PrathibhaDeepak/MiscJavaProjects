@@ -1,0 +1,28 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+
+		int a = 25;
+		int b = 45;
+		float x = 35.634f;
+		int c = a+b;
+		System.out.printf(a);
+		System.out.print(b);
+		System.out.print(x);
+		System.out.print(c);
+		
+		//PrintStream cout = System.out;
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
+	

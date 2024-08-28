@@ -1,0 +1,26 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class SumArray {
+
+	public static void main(String[] args) {
+		int []arr = {10,20,30,40,50};
+		int sum=0;
+		int num = 0;
+		
+		/*System.out.print("Enter values: ");
+		Scanner input = new Scanner(System.in);
+		limit = input.nextInt(); */
+		
+		
+		for(int i=1; i<num; i++) {
+			sum = sum+i;
+			System.out.print(i);
+		}
+		
+		System.out.printf("Sum is : ", sum);
+
+	}
+
+}

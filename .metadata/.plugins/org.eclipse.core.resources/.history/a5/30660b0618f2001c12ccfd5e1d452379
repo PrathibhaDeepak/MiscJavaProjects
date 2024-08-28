@@ -1,0 +1,32 @@
+
+public class switchCase {
+	import java.util.Scanner;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare variables
+		double BSP, SP;
+		int grade;
+		// Get input
+		Scanner in = new Scanner(System.in);
+		System.out.println("Enter basic Sales price: ");
+		BSP = in.nextDouble();
+		
+		System.out.println("Enter grade: ");
+		grade = in.nextInt();
+		
+		switch(grade) {
+		case 1:
+			SP = BSP;
+			break;
+		case 2:
+			SP = BSP+(10/100.0*BSP);
+			break;
+		default:
+			SP = BSP+(0.5/100)*BSP);
+			
+		}
+		System.out.printf("Sales price is %.2f");
+	}
+
+}

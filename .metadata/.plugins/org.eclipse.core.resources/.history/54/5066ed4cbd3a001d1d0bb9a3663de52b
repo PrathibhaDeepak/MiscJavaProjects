@@ -1,0 +1,16 @@
+package thisK;
+
+public class ClassB extends ClassA {
+	int one;
+	
+	int hello() {
+		return one =85;
+		//System.out.println("This is class B");
+	}
+	void hello1() {
+		
+		super.one = 95;
+		super.display();
+	}
+
+}

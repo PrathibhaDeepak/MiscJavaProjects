@@ -1,0 +1,22 @@
+package arrayPack;
+
+import java.util.Scanner;
+
+public class FahToDegree {
+
+	public static void main(String[] args) {
+		int temp;
+		int cel;
+		int fahr = 108;
+		
+		System.out.print("Enter temperature: ");
+		Scanner input = new Scanner(System.in);
+		temp = input.nextInt();
+		input.close();
+		
+		cel = fahr-32*(5/9);
+		
+		System.out.printf("%d temp in celsius: %d",fahr, cel);
+	}
+
+}

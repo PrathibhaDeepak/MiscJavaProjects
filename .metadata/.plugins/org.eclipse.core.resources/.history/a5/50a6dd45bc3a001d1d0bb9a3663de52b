@@ -1,0 +1,14 @@
+package thisK;
+
+public class ClassA {
+	int one;
+	
+	void display() {
+		one = 95;
+		System.out.println("This is class A display");
+		System.out.println("Let's try Super");
+		System.out.println(one);
+
+	}
+	
+}

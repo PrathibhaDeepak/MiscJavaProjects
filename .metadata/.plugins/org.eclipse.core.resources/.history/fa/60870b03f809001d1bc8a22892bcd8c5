@@ -1,0 +1,25 @@
+package helloLearn;
+
+public class Assessment_Array {
+
+	public static void main(String[] args) {
+		int [] ant = {1,2,3,4,5};
+		
+		for(int i=1; i<ant.length; i++) { 
+						
+			//System.out.print(ant[i] +"\t");
+			//System.out.println("\n");
+			for(int odd=1; odd<=ant.length; odd++) {
+				if(odd%2==1) {
+					System.out.println("It is an Even number:" + ant[odd]);
+				}}
+			
+		
+		}}			
+				
+	
+		
+
+
+
+	}

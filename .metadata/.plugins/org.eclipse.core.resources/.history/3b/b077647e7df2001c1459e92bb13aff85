@@ -1,0 +1,82 @@
+import java.util.Scanner;
+
+public class whileLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Declare variables
+		long N, fact;
+		String s;
+		int c;
+		
+		
+		
+		do {
+			//Get N value
+			Scanner in = new Scanner(System.in);
+			System.out.println("Enter N value: ");
+			N = in.nextLong();
+			//Calculate the Factorial of N
+			
+			c = 1;  // Initialize the Factorial value
+			fact = 1;
+			
+			
+		}while(c<=N); {
+			fact*=c;
+			c++;
+		
+		System.out.printf("Factorial of %d ", N, fact);
+		//ask whether to continue or not
+		System.out.print("Do you wisht to continue? Y/N ");
+		Scanner pan = new Scanner(System.in);
+		System.out.print("Enter Y or N");
+		s = pan.next();
+	}while(s=="Y" || s=="y");
+	
+	
+		
+		
+		
+		/*
+			
+		int eveno =10;
+		do {
+			System.out.println(eveno);
+			eveno+=10;
+			}
+		while(eveno<=100 );
+		
+		
+
+			
+		
+		 * int oddn = 1;
+		while (oddn<=100) {
+			System.out.print (oddn);
+			oddn+=2;
+		int counting = 0;
+		while(counting<=100) {
+			if(counting % 2==0) {
+				counting++;
+				continue;
+			}
+		System.out.printf("\n%d", counting);
+		counting+=2;
+		
+		int counting = 0;
+		//counting+=5;
+		while(counting<=50) {
+			System.out.printf("\n%d", counting);
+			counting+=5;
+		
+		int i = 0;
+		i+=2;
+		
+		while(i<=15) {
+			System.out.println(i);
+			i+=2; */
+		}
+	}
+
+

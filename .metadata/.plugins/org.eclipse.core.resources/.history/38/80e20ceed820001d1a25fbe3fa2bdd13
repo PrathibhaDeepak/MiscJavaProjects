@@ -1,0 +1,17 @@
+package javaScanner;
+
+import java.util.Scanner;
+
+public class SumArrayInput {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter values: \n");
+		int val = input.nextInt();
+		for(int i=0; i<val; i++) {
+		
+		
+
+	}
+
+}
